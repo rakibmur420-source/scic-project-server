@@ -6,10 +6,11 @@ Production-ready REST API built with Express.js, TypeScript, Prisma ORM, and Pos
 
 | | |
 |---|---|
+| **Live link** | https://scic-project-client.vercel.app/ |
 | **Live API URL** | https://scic-project-server.onrender.com |
-| **GitHub Repository** | https://github.com/rakibmur420-source/scic-project-server |
+| **Client Git Repository** | https://github.com/rakibmur420-source/scic-project-client |
 | **API Documentation** | [API_DOCUMENTATION.md](./API_DOCUMENTATION.md) |
-| **Frontend (live)** | https://scic-project-client.vercel.app/ |
+
 
 > Note: hosted on Render's free tier, which sleeps after inactivity. The first request after idle time may take 30–50 seconds to respond while it wakes up.
 
